@@ -4,14 +4,7 @@ body {
     background-size: cover;
 }
 
-nav {
-    display: flex;
-    justify-content: center;
-    gap: 5px;
-    width: 100%;
-    height: 10%;
-    background-color: #ffffff50;
-}
+
 
 @media screen and (max-width: 600px){
     body{
@@ -21,10 +14,3 @@ nav {
     }
 }
 
-@media screen and (max-width: 500px){
-    nav {
-        background-color: #ffffff;
-        width: 5%;
-        height: 5%;
-    }
-}
