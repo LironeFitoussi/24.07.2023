@@ -6,7 +6,7 @@ body {
 
 
 
-@media screen and (max-width: 650){
+@media screen and (max-width: 650px){
     body{
         background-image: url(https://images.pexels.com/photos/754194/pexels-photo-754194.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
         background-repeat: no-repeat;
