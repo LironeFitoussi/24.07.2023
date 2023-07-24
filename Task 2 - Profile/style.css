@@ -1,0 +1,40 @@
+header {
+    height: 10%;
+    background-color: #0000ff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+footer {
+    height: 13%;
+    background-color: #000000;
+}
+
+p {
+    color: #ff0000;
+}
+
+img {
+    height: 50px;
+    aspect-ratio: 1 / 1 ;
+}
+
+h2 {
+    color: #ff0000;
+    text-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+article.p {
+    color: #ff6600;
+}
+
+.exstra {
+    color: #ffee00;
+}
+
+a {
+    text-decoration: none;
+    color: #0c9300;
+}
