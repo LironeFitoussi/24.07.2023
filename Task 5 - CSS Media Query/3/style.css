@@ -1,0 +1,20 @@
+body {
+    background-color: #00ff00;    
+}
+section {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    justify-items: center;
+}
+
+div {
+    background-color: #ff0000;
+    width: 30px;
+    height: 20px;
+}
+
+.last {
+    grid-column-start: -2;
+}
