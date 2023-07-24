@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtHGYqbRzFjQbiKa_1eeeWyHziNYAa7Jc4tocw-T6SdUxrIpU-TnZBOyKzU9wyc1mxb3E&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    width: 100%;
+    height: 10%;
+    background-color: #ffffff50;
+}
+
+@media screen and (max-width: 600px){
+    body{
+        background-image: url(https://images.pexels.com/photos/754194/pexels-photo-754194.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+@media screen and (max-width: 500px){
+    nav {
+        background-color: #ffffff;
+        width: 5%;
+        height: 5%;
+    }
+}
