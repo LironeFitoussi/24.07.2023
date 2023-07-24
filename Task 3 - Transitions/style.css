@@ -1,5 +1,5 @@
 div:hover {
-    animation-delay: 3s;
+    transition-delay: 3s;
 }
 
 .first {
