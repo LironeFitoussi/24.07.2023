@@ -1,19 +1,19 @@
-תרגילים CSS
+CSS Exercises
 
-1. צרו קובץ HTML חדש.
+1. Create a new HTML file.
 
-2. צרו בו אלמנט של DIV ותנו לו רוחב של 90 אחוז וגובה של 80 אחוז בצורת INLINE STYLE.
+2. Inside it, create a DIV element and give it a width of 90% and a height of 80% using inline style.
 
-3. בתוך ה DIV צרו H1 עם הכותרת IT IS WHAT IT IS בצבע כחול, בצורת ETERNAL STYLE.
+3. Inside the DIV, create an H1 element with the title "IT IS WHAT IT IS" in blue color using external style.
 
-4. צרו קובץ STYLE.CSS וקשרו אותו ל HTML.
+4. Create a file named "style.css" and link it to the HTML file.
 
-5. בתוך הקובץ CSS תנו ל BODY צבע רקע אדום.
+5. Inside the CSS file, give the BODY a background color of red.
 
-6. צרו ב DIV אלמנט של SECTION ותנו לו רוחב של 90 אחוז מהמסך וגובה של 80 אחוז מהמסך בצורת INLINE STYLE.
+6. Inside the DIV, create a SECTION element and give it a width of 90% of the screen and a height of 80% of the screen using inline style.
 
-7. בתוך ה SECTION צרו P עם הכיתוב THIS IS P בצבע ירוק, בצורת ETERNAL STYLE.
+7. Inside the SECTION, create a P element with the text "THIS IS P" in green color using external style.
 
-8. בתוך הקובץ CSS תנו ל SECTION צבע רקע לבן בשיטת הקסדצימלי
+8. Inside the CSS file, give the SECTION a background color of white using hexadecimal notation.
 
-9. צרו 3 אלמנטי H2 עם טקסטים שונים וצבעו את האלמנט האמצעי בצהוב, ב EXTERNAL STYLE.
+9. Create 3 H2 elements with different texts, and color the middle element in yellow using external style.
