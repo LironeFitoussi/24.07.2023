@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(253, 237, 215);
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+    height: 50px;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;  
+}
+
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    gap: 4px;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(67, 138, 114);
+    padding: 10%;
+    border-radius: 15px;  
+    width: fit-content;
+    align-items: center;
+}
+
+.last {
+    grid-column-start: -2 ;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: right;
+}
