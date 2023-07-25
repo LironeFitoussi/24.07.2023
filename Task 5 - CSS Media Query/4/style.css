@@ -17,7 +17,7 @@ img {
 
 section {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     justify-items: center;
     gap: 4px;
 }
@@ -32,9 +32,6 @@ div {
     align-items: center;
 }
 
-.last {
-    grid-column-start: -2 ;
-}
 
 h1 {
     text-align: center;
